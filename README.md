@@ -1,7 +1,7 @@
 # Free-trial-gym
 def freeTrial(tsampatzides,lista,name):
     if name in lista:
-        print ("kys tsampatzi karioli "+name)
+        print ("you have already tried free trial dear "+name)
         tsampatzides.append(name)
 
     else:
